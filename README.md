@@ -70,5 +70,5 @@ It provides a scalable frontend foundation for building a full booking ecosystem
 
 Developed as a modern travel marketplace UI concept by the Codeniquee team.
 
----
+
 
